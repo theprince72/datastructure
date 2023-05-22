@@ -1,2 +1,0 @@
-# datastructure
-Only for preparation
